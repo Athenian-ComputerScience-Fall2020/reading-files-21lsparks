@@ -2,7 +2,13 @@
 #  
 
 def avg_temp():
+with open('tempts.txt') as file_object:
+    contents = file_object.readlines()
 
+list_length = len(avg_temp)
+for i in range(avg_temp):
+    avg_temp[i] = avg_temp[i].rstrip()
+print(avg_temp)
 
     return
 

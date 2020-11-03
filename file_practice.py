@@ -17,5 +17,11 @@
 # Edit the elements to eliminate whitespace in the list
 
 
+with open('tempts.txt') as file_object:
+    contents = file_object.readlines()
 
+list_length = len(line_list)
+for i in range(list_length):
+    line_list[i] = linelist[i].rstrip()
+print(line_list)
 
