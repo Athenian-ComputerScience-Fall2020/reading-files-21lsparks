@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-# claryse
+# claryse adams
 
 def avg_temp(user_list):
     total = 0
