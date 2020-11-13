@@ -4,7 +4,12 @@
 Below are templates for flowcharts and mardown. feel free to edit them - or delete them and do something else if you prefer.
 
 # Markdown
-
+= need to switch data from strings to integers by doing int()
+- need to make sure I define the function avg earlier/below
+- need to make sure not more than two decimal places
+- arg(arg1, arg2)
+- arg1 = the data i want to round
+- arg2 = the number of data places I want to round it
 
 ## Markdown
 This is a brief guide to Markdown. Click the edit button to see what to type and use the "Preview changes" tab to check your work as you go.
